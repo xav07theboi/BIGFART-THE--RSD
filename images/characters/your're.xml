@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="your&apos;re.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="die0000" x="304" y="0" width="242" height="98" frameX="1" frameY="1" frameWidth="241" frameHeight="96"/>
+	<SubTexture name="die0001" x="0" y="0" width="304" height="304" frameX="2" frameY="2" frameWidth="300" frameHeight="300"/>
+	<SubTexture name="idle0000" x="304" y="98" width="28" height="34" frameX="2" frameY="2" frameWidth="24" frameHeight="31"/>
+</TextureAtlas>
